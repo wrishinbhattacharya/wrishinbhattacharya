@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Wrishin 👋
 
-<!--
-**wrishinbhattacharya/wrishinbhattacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a technical consultant working with Oracle Cloud ERP, integrations, and automation.
 
-Here are some ideas to get you started:
+## What I work on
+- Oracle Fusion ERP integrations
+- Python automation for data processing
+- REST APIs and system integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+- Advanced Python tooling
+- Git and GitHub workflows
+- Clean automation design
+
+## How to reach me
+- GitHub: https://github.com/wrishinbhattacharya
